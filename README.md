@@ -1,4 +1,4 @@
-# LabShop Mini-SOC: Week 1 - Lab build and Wazuh deployment
+# SIEM_SOC: Week 1 - Lab build and Wazuh deployment
 
 Blue Team Capstone. LabShop is a small online shop with one web server and one staff PC and no security monitoring. This repository documents Week 1: an isolated virtual lab with a Wazuh SIEM watching two endpoints.
 
